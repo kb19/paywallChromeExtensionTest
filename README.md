@@ -9,3 +9,5 @@ HOW TO USE
 3. In the top right, click the 'Developer Mode' checkbox (if it's not already checked)
 3. Click on 'Load unpacked extension' and select the folder you downloaded this extension to
 4. And voila! The extension will be activated whenever you hit an article on thestar.com
+
+**I won't be submitting this to the Chrome Web Store since it will probably be quickly removed
