@@ -1,3 +1,6 @@
+This was created so I could learn how to create a Chrome extension as well as show how silly the implementation of some of these paywalls are (in this case on thestar.com). 
+The content of an article is loaded and then a couple overlays are thrown over the page (presumably so the article is still searchable).
+
 HOW TO USE
 ====================
 
