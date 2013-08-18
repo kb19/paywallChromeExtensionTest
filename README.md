@@ -5,6 +5,6 @@ HOW TO USE
 ====================
 
 1. Download this repository on the far right ('Download Zip')
-2. In Chrome, go to chrome://extensions
+2. In Chrome, type 'chrome://extensions' into the address bar
 3. Click on 'Load unpacked extension' and select the folder you downloaded this extension to
 4. And voila! The extension will be activated whenever you hit an article on thestar.com
